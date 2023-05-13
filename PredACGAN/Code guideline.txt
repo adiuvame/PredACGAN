@@ -1,0 +1,3 @@
+Make dataset with 1_Dataset. You can choose two dataset, S&P 500 index dataset and NASDAQ 100 index dataset.
+Then, train the model with train.py and evaluate in test dataset with evaluation.py
+You can visualize and apply the portfolio algorithm with port_test.ipynb which is in 3_portfolio.
